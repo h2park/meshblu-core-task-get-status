@@ -1,15 +1,15 @@
 {
-  "name": "get-status",
-  "version": "1.0.0",
-  "description": "Meshblu core task get-status",
+  "name": "meshblu-core-task-get-status",
+  "version": "1.0.1",
+  "description": "Meshblu core task meshblu-core-task-get-status",
   "keywords": [
     "meshblu",
     "core",
     "iot",
     "task"
   ],
-  "homepage": "https://github.com/octoblu/get-status",
-  "bugs": "https://github.com/octoblu/get-status/issues",
+  "homepage": "https://github.com/octoblu/meshblu-core-task-get-status",
+  "bugs": "https://github.com/octoblu/meshblu-core-task-get-status/issues",
   "author": {
     "name": "Octoblu",
     "url": "https://github.com/octoblu"
@@ -17,7 +17,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/octoblu/get-status.git"
+    "url": "https://github.com/octoblu/meshblu-core-task-get-status.git"
   },
   "scripts": {
     "test": "istanbul cover _mocha -- -R spec --require coffee-coverage/register-istanbul"
