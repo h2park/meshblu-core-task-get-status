@@ -13,7 +13,7 @@ class GetStatus
         code: 200
         status: http.STATUS_CODES[200]
       data:
-        online: true
+        meshblu: 'online'
     return callback null, response
 
 module.exports = GetStatus

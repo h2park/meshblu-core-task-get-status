@@ -21,5 +21,5 @@ describe 'GetStatus', ->
             code: 200
             status: 'OK'
           data:
-            online: true
+            meshblu: 'online'
         expect(@response).to.deep.equal expectedResponse
